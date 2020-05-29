@@ -9,4 +9,4 @@ intelliJ
 
 ## Summary
 
-Group Lab, building a card game, that takes a deck of cards, gives 1 card to each player then highest card wielder wins.
+Group Lab, building a card game, that takes a deck of cards, gives 1 card to each player then highest card wielder wins. With a focus on the use of Enums
